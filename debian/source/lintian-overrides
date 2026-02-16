@@ -1,0 +1,5 @@
+python-railroad-diagrams source: file-without-copyright-information
+python-railroad-diagrams source: no-debian-changes
+python-railroad-diagrams source: source-contains-prebuilt-windows-binary
+python-railroad-diagrams source: source-is-missing
+python-railroad-diagrams source: source-package-encodes-python-version
